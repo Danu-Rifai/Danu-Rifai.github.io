@@ -129,6 +129,10 @@ body {
   align-items: center;
   padding-bottom: 20px;
 }
+
+.modal-body ol li {
+  text-align: left;
+}
 .article-container-firstRow {
   width: 1100px;
   height: 250px;
