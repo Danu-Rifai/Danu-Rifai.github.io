@@ -1,7 +1,7 @@
 @import url("https://fonts.googleapis.com/css2?family=Vampiro+One&display=swap");
 
 body {
-  background: linear-gradient(#9a08dd 0%, #dd4c4f 40%, #7420d3 100%);
+  background: linear-gradient(#08a1dd 0%, #4ad1a8 40%, #20c7d3 100%);
   font-family: "Poppins", sans-serif;
 }
 
@@ -23,11 +23,12 @@ body {
   color: rgb(192, 191, 191);
 }
 .nav.scrolled a {
-  color: rgb(155, 49, 255);
+  color: #08a1dd;
 }
 .nav.scrolled a:hover {
-  color: rgb(208, 157, 255);
+  color: rgb(157, 219, 255);
 }
+
 .buttonToggle {
   display: none;
 }
